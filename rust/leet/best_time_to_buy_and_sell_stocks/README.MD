@@ -1,8 +1,8 @@
-# [Majority Element](https://leetcode.com/problems/majority-element)
+# [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 `easy`
 
 ## Complexity:  
-- Time: O(N) - worst case all elements, best case half elements O(N/2)
+- Time: O(N) - walk through all elements 
 - Space: O(1) - inplace
 
 ## Notes:  

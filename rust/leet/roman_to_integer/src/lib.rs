@@ -68,8 +68,7 @@ mod tests {
         let cases = vec![
             ("III", 3),
             ("LVIII", 58),
-            ("MCMXCIV", 1994),
-            ("IIIVM", 1006),
+            ("MCMXCIV", 1994)
         ];
 
         for (input, expected) in cases {

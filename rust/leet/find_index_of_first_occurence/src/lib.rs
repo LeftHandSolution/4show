@@ -5,7 +5,6 @@
 /// Returns the index of the first occurrence of `needle` in `haystack`, or -1 if not found.
 /// Will not correctly work in multibyte characters scenario, but it's fine for current constraints
 pub fn str_str(haystack: String, needle: String) -> i32 {
-    
     if needle.len() > haystack.len() {
         return -1;
     }
